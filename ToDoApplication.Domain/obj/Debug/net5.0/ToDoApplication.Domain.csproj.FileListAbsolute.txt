@@ -1,0 +1,12 @@
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\bin\Debug\net5.0\ToDoApplication.Domain.deps.json
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\bin\Debug\net5.0\ToDoApplication.Domain.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\bin\Debug\net5.0\ref\ToDoApplication.Domain.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\bin\Debug\net5.0\ToDoApplication.Domain.pdb
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\obj\Debug\net5.0\ToDoApplication.Domain.csproj.AssemblyReference.cache
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\obj\Debug\net5.0\ToDoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\obj\Debug\net5.0\ToDoApplication.Domain.AssemblyInfoInputs.cache
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\obj\Debug\net5.0\ToDoApplication.Domain.AssemblyInfo.cs
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\obj\Debug\net5.0\ToDoApplication.Domain.csproj.CoreCompileInputs.cache
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\obj\Debug\net5.0\ToDoApplication.Domain.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\obj\Debug\net5.0\ref\ToDoApplication.Domain.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Domain\obj\Debug\net5.0\ToDoApplication.Domain.pdb

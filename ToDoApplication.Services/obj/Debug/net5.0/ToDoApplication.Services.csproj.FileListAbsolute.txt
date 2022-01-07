@@ -1,0 +1,17 @@
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\bin\Debug\net5.0\ToDoApplication.Services.deps.json
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\bin\Debug\net5.0\ToDoApplication.Services.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\bin\Debug\net5.0\ref\ToDoApplication.Services.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\bin\Debug\net5.0\ToDoApplication.Services.pdb
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\bin\Debug\net5.0\ToDoApplication.Data.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\bin\Debug\net5.0\ToDoApplication.Domain.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\bin\Debug\net5.0\ToDoApplication.Data.pdb
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\bin\Debug\net5.0\ToDoApplication.Domain.pdb
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ToDoApplication.Services.csproj.AssemblyReference.cache
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ToDoApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ToDoApplication.Services.AssemblyInfoInputs.cache
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ToDoApplication.Services.AssemblyInfo.cs
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ToDoApplication.Services.csproj.CoreCompileInputs.cache
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ToDoApplication.Services.csproj.CopyComplete
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ToDoApplication.Services.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ref\ToDoApplication.Services.dll
+D:\C#\Repo\jenny-dimitrova\Assignment_3\ToDoApplication\ToDoApplication.Services\obj\Debug\net5.0\ToDoApplication.Services.pdb
